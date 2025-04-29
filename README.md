@@ -49,10 +49,10 @@ Data is stored in a MySQL table and exported to `Full_Track.csv`.
 
 ## 📁 Dataset
 
-**File:** `Full_Track.csv`
+You can download or view the dataset used in this analysis here:  
+🔗 [Full_Track.csv](Full_Track.csv)
 
 | Track Name | Artist | Album | Popularity | Duration (minutes) |
 |------------|--------|-------|------------|---------------------|
 | ...        | ...    | ...   | ...        | ...                 |
 
----
